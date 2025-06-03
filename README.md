@@ -1,4 +1,5 @@
 ## Sales Trend Analysis Using Aggregations
+Objective: Analyze monthly revenue and order volume.
 
 ## Dataset : online_sales 
 
