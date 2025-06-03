@@ -24,4 +24,6 @@ Payment Method: How the customer paid (e.g., Cash, Card).
 
 >[Dataset](Online%20Sales%20Data%20(1).csv)
 
->[Sql query](Task_6)
+>[Sql query](Task_6.sql)
+
+>[Result table 1](result_table1.excl)
