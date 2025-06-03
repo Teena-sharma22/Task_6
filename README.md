@@ -26,4 +26,14 @@ Payment Method: How the customer paid (e.g., Cash, Card).
 
 >[Sql query](Task_6.sql)
 
->[Result table 1](result_table1.excl)
+>[Result table 1](result_table1.csv)
+
+>[Result table 2](result_table2.csv)
+
+>[Result table 3](result_table3.csv)
+
+>[Result table 4](result_table4.csv)
+
+>[Result table 5](result_table5.csv)
+
+>[Result table 6](result_table6.csv)
